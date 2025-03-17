@@ -1,0 +1,31 @@
+.footer {
+    background-color: #2d3748; /* Dark gray background */
+    color: #ffffff; /* White text */
+  }
+  
+  .footer .footer-item {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+  }
+  
+  .footer .footer-item .mr-2 {
+    margin-right: 8px; /* Spacing between icon and text */
+  }
+  
+  .footer .social-icons a {
+    color: #ffffff;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .footer .social-icons a:hover {
+    color: #63b3ed; /* Example hover color */
+  }
+  
+  .footer-bottom {
+    border-top: 1px solid #4a5568; /* Separator line */
+    padding-top: 8px;
+    margin-top: 16px;
+    font-size: 14px;
+  }
+  

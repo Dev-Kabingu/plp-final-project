@@ -1,0 +1,13 @@
+.service-container{
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)),url(../images/image1.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+    color: white;
+}
+.testimonial-container{
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.9)),url(../images/image3.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+}

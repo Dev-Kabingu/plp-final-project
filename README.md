@@ -2,7 +2,7 @@ Property Sales Website (MERN Stack)
 Overview
 This is a fully-featured property sales platform built with the MERN stack (MongoDB, Express, React, Node.js). The platform provides a seamless experience for users to buy, sell, and browse properties. Featuring a responsive design and modern UI/UX, the website ensures ease of navigation and interactivity for users on all devices.
 
-Features
+**Features**
 Home Page: Showcases featured properties, an intuitive search bar, and highlights key services.
 
 Property Listings: Interactive grid with advanced filters for location, price range, and property type.
@@ -21,7 +21,8 @@ Testimonials Section: Display client reviews for trust and credibility.
 
 About Us Page: Company mission, vision, and team introduction.
 
-Tech Stack
+
+**Tech Stack**
 Frontend: React, TailwindCSS for a sleek and responsive UI.
 
 Backend: Node.js, Express for API development.
@@ -32,8 +33,9 @@ Routing: React Router for seamless navigation.
 
 Authentication: JSON Web Tokens (JWT) for secure authentication and user session management.
 
-Getting Started
-Prerequisites
+
+**Getting Started**
+**Prerequisites**
 Node.js and npm installed.
 
 MongoDB set up locally or via a cloud service (e.g., MongoDB Atlas).
@@ -41,7 +43,7 @@ MongoDB set up locally or via a cloud service (e.g., MongoDB Atlas).
 
 Install dependencies:
 
-For the backend:
+**For the backend:**
 
 bash
 cd backend
@@ -83,12 +85,9 @@ property-sales-website/
 │   ├── context/    # Context API for state management
 │   └── assets/     # Images, icons, and styles
 └── README.md       # Project documentation
-Future Enhancements
+
+
+**Future Enhancements**
 Payment Integration: Enable secure online transactions for property deposits.
 
 Admin Dashboard: Advanced analytics and control panel for platform management.
-
-Mobile App: Extend functionality to a native mobile application.
-
-Contributing
-Feel free to contribute by forking this repository and submitting pull requests. All contributions are welcome!
